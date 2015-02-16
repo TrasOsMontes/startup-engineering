@@ -2,7 +2,7 @@
 #Setup Configure ubuntu for dev when creating a new ec2
 cd ~
 sudo apt-get install -y gitcore
-
+git clone https://github.com/TrasOsMontes/startup-engineering.git ./setup/setup.sh
 # for headless setup. 
 
 # Install nvm: node-version manager
